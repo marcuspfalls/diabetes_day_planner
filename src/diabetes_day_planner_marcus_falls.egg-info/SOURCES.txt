@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/diabetes_day_planner_marcus_falls.egg-info/PKG-INFO
+src/diabetes_day_planner_marcus_falls.egg-info/SOURCES.txt
+src/diabetes_day_planner_marcus_falls.egg-info/dependency_links.txt
+src/diabetes_day_planner_marcus_falls.egg-info/top_level.txt
+src/python_scripts/__init__.py
+src/python_scripts/calculate_doses.py
